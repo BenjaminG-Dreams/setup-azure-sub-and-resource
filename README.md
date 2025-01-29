@@ -115,33 +115,29 @@ Now create a new container, name it, and hit create.
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/3pl9aY3.png"/>
-</p>
+![Screenshot 2025-01-28 212933](https://github.com/user-attachments/assets/21b7e390-c1a1-48d5-a021-94c5917bd35b)
+
 <p>
 Now click on the new container you just made, and we are going to upload a basic text file into the container.
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/w7sOZVz.png"/>
-</p>
+![Screenshot 2025-01-28 205042](https://github.com/user-attachments/assets/c391ef67-664c-4259-b2b9-05158c6a19ad)
+
 <p>
 Just make a new text document on your desktop, then name it and write what ever you want in it.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/1nutBNY.png"/>
-</p>
+![Screenshot 2025-01-28 205655](https://github.com/user-attachments/assets/346afea2-7eab-4a4f-8221-eca570404629)
+
 <p>
 Click the upload button and you can just drag and drop the file from your desktop or you can search for it in file explorer, and then upload it!
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/TIOrw9I.png"/>
-</p>
+![Screenshot 2025-01-28 205901](https://github.com/user-attachments/assets/07bad3c6-f56c-4a53-b9ea-c25a1cd0e4e1)
+
 <p>
 Now that you have uploaded the file, you can edit, download it to your computer, or do whatever you want with it.
 </p>
@@ -154,8 +150,7 @@ That is the last step of creating a storage account. Now we will delete the reso
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/TZXjAuP.png"/>
-</p>
+![Screenshot 2025-01-28 210113](https://github.com/user-attachments/assets/17e85bc3-2b1a-4e23-bea3-54048d65d016)
+
 <p>
 To delete the resource group, just go back to the resource groups page, click on the resource group, click delete resource group, and type/copy paste the resource group's name to confirm, and then click delete.
