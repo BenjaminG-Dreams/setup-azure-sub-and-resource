@@ -59,7 +59,7 @@ Navigate to resource groups by typing it into the search bar. From there press t
 ![Screenshot 2025-01-28 203522](https://github.com/user-attachments/assets/de31cd3a-fc89-4c8a-aefb-dd8e335bb3e2)
 
 <p>
-We will finally start configuring our resource group. You will most likely only have one subscription so it will already be defaulted onto the one you have created. We will only be creating the name and changing the region. For the name of the group, we can name it "RG-1". You can change this to whatever you would like, but this is the sample name we will be using. Next, you will set the region to whatever is closest to you by pressing the dropdown menu. We will be using "West US 3" for this tutorial. Review + create >" on the bottom left after you have finished.
+We will finally start configuring our resource group. You will most likely only have one subscription so it will already be defaulted onto the one you have created. We will only be creating the name and changing the region. For the name of the group, we can name it "RG-1". You can change this to whatever you would like, but this is the sample name we will be using. Next, you will set the region to whatever is closest to you by pressing the dropdown menu. We will be using "West US 2" for this tutorial. Review + create >" on the bottom left after you have finished.
 </p>
 
 ![Screenshot 2025-01-28 203652](https://github.com/user-attachments/assets/6622fb34-bf1c-4e0f-8dc4-6a84c201127e)
