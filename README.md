@@ -35,97 +35,81 @@ This is online tutorial on how to setup an subscription and resources in Azure. 
 
 <h2>Azure Setup Steps and Resource Group Creation</h2>
 
-<p>
-<img src="https://i.imgur.com/ZVBPCGk.png"/>
-</p>
+![Screenshot 2025-01-28 202410](https://github.com/user-attachments/assets/3671f24d-be7e-4d7c-b526-df96557a5fe5)
+
 <p>
 First, you will need to create an Azure account. Go to https://azure.microsoft.com/en-us/free/ and click the green start free button. This step will require a credit/debit card, but it will not be charged.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/7f3nlwW.png"/>
-</p>
+![Screenshot 2025-01-28 202943](https://github.com/user-attachments/assets/13aadc4f-6c83-4cf2-89ee-76ca169b51eb)
+
 <p>
 After the account is made, you will need to go to https://portal.azure.com. From here, you will sign into the portal with the email and password that you created in the previous step. Inside the portal you will type "Subscriptions' and click the gold key to ensure that your subscription is currently active. After this, we will create a resource group.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/bhgaF6z.png"/>
-</p>
+![Screenshot 2025-01-28 203239](https://github.com/user-attachments/assets/be32fc9a-225a-43c4-a762-0c2133f5d59d)
+
 <p>
 Navigate to resource groups by typing it into the search bar. From there press the blue button that says "Create resource group".
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/mKOYrIm.png"/>
-</p>
-<p>
-We will finally start configuring our resource group. You will most likely only have one subscription so it will already be defaulted onto the one you have created. We will only be creating the name and changing the region. For the name of the group, we can name it "RG-1". You can change this to whatever you would like, but this is the sample name we will be using. Next, you will set the region to whatever is closest to you by pressing the dropdown menu. We will be using "West US 3" for this tutorial. Press "Next: Tags >" on the bottom left after you have finished.
-</p>
-<br />
+![Screenshot 2025-01-28 203522](https://github.com/user-attachments/assets/de31cd3a-fc89-4c8a-aefb-dd8e335bb3e2)
 
 <p>
-<img src="https://i.imgur.com/eFktQsX.png"/>
+We will finally start configuring our resource group. You will most likely only have one subscription so it will already be defaulted onto the one you have created. We will only be creating the name and changing the region. For the name of the group, we can name it "RG-1". You can change this to whatever you would like, but this is the sample name we will be using. Next, you will set the region to whatever is closest to you by pressing the dropdown menu. We will be using "West US 3" for this tutorial. Review + create >" on the bottom left after you have finished.
 </p>
-<p>
-On this page you can assign tags to the resource group. Skip this as you don't have to assign any tags, but this is just for organizations to keep track of data pertaining to certain resources. Hit the "Next : Review + create >" button. 
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/dVpUMK1.png"/>
-</p>
+![Screenshot 2025-01-28 203652](https://github.com/user-attachments/assets/6622fb34-bf1c-4e0f-8dc4-6a84c201127e)
+
 <p>
 This last page will be where you confirm everything is correct and press "Create" on the bottom left to finalize the creation of the resource group.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/Qw9ntW7.png"/>
-</p>
+![Screenshot 2025-01-28 203900](https://github.com/user-attachments/assets/b95c45f0-526c-405a-a0e7-66c4f7a662f5)
+
 <p>
 We will now check to see if the resource group that we created is active by going back to the Resource Group page by typing it into the search bar once again. Next we will be testing the resource group by creating a Azure Storage Account which is like a Google Drive or iCloud for apple.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/Cbd7gtY.png"/>
-</p>
+![Screenshot 2025-01-28 204001](https://github.com/user-attachments/assets/7d9a5148-bc3b-498f-b588-ef66f7e65354)
+
+![Screenshot 2025-01-28 204056](https://github.com/user-attachments/assets/f005e338-ea25-448c-b155-e18f70b98cc9)
+
 <p>
 Create a storage account by typing "Storage Account" in the search bar and pressing the button in the service section. Once there, press the "Create storage account" button.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/Jv1Znq8.png"/>
-</p>
+![Screenshot 2025-01-28 204707](https://github.com/user-attachments/assets/69d5f4b0-6bb0-49d2-ad81-fc171f773692)
+
+![Screenshot 2025-01-28 204741](https://github.com/user-attachments/assets/622b71c0-eb44-4076-8357-a75cf598b148)
+
 <p>
 Next we will make sure the subscription and resource group is selected to the one we just created. If not, select it by pressing the drop down menu for both. From there, you'll need to make a unique name for the account and confirm that the account is in the same region as your resource group. You will then hit the blue review button on the bottom left to run the validation. Lastly, you will hit create. 
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/bQPFBBf.png"/>
-</p>
+![Screenshot 2025-01-28 204858](https://github.com/user-attachments/assets/50309934-68dd-4513-b283-b92612913788)
+
 <p>
 Wait for it to complete deployment and hit "Go to resource".
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/BHbAhHg.png"/>
-</p>
+![Screenshot 2025-01-28 205001](https://github.com/user-attachments/assets/7c31d0ab-aab0-4554-ac7c-3ea012889533)
+
 <p>
 Once you are in the storage account, click on containers.
 </p>
 <br />
 
-<p>
-<img src="https://imgur.com/CMQKtQu.png"/>
-</p>
+![Screenshot 2025-01-28 205532](https://github.com/user-attachments/assets/ea315b35-b3d2-46c3-99bb-e3fccd49fde5)
+
 <p>
 Now create a new container, name it, and hit create.
 </p>
